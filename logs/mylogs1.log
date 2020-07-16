@@ -1,0 +1,87 @@
+[INFO ] 2020-07-07 00:48:50.776 [main] Flight_Test - type
+[TRACE] 2020-07-07 00:48:52.641 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 00:48:58.701 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 00:48:59.277 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 00:49:09.345 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 00:51:18.292 [main] Flight_Test - type
+[TRACE] 2020-07-07 00:51:23.944 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 00:51:29.459 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 00:51:30.010 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 00:51:41.440 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 00:53:59.193 [main] Flight_Test - type
+[TRACE] 2020-07-07 00:54:00.384 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 00:54:06.732 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 00:54:07.517 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 00:54:19.604 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 01:05:18.597 [main] Flight_Test - type
+[TRACE] 2020-07-07 01:05:24.142 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 01:05:29.740 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 01:05:30.316 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 01:05:41.178 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 01:13:04.948 [main] Flight_Test - type
+[TRACE] 2020-07-07 01:13:07.059 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 01:13:15.433 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 01:13:16.009 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 01:13:20.273 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 01:35:36.431 [main] Flight_Test - type
+[TRACE] 2020-07-07 01:35:42.033 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 01:35:47.657 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 01:35:48.160 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 01:35:59.495 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 10:47:13.150 [main] Flight_Test - type
+[TRACE] 2020-07-07 10:47:14.878 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 10:47:20.425 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 10:47:20.988 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 10:47:30.641 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 10:52:41.266 [main] Flight_Test - type
+[TRACE] 2020-07-07 10:52:45.177 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 10:52:51.065 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 10:52:51.576 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 10:52:59.478 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 11:00:59.571 [main] Flight_Test - type
+[TRACE] 2020-07-07 11:01:04.502 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-07-07 11:01:09.606 [main] Flight_Test - clicking on calender
+[TRACE] 2020-07-07 11:01:10.129 [main] Flight_Test - select passenger
+[INFO ] 2020-07-07 11:01:12.957 [main] Flight_Test - cliked to different 
+[INFO ] 2020-07-07 21:30:31.320 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:01.605 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:26.290 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:37.015 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:37.449 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:43.410 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:44.105 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:31:44.265 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:03.500 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:03.599 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:22.892 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:38.398 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:38.478 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:42.609 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:43.371 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:32:43.561 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:33:02.062 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:33:02.267 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:36:41.086 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:36:42.648 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:36:43.050 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:02.212 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:03.042 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:03.209 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:04.276 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:16.637 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:37:43.051 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:00.547 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:00.688 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:19.105 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:20.218 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:20.372 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:21.256 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:38:45.194 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:06.561 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:25.989 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:26.057 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:30.238 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:31.305 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:31.431 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:39.483 [main] Flight_Test - step ends
+[INFO ] 2020-07-07 21:39:47.879 [main] Flight_Test - step ends

@@ -1,0 +1,11 @@
+[INFO ] 2020-06-09 13:17:59.889 [main] Flight_Test - type
+[DEBUG] 2020-06-09 13:18:18.533 [main] Flight_Test - clicking on calender
+[INFO ] 2020-06-09 13:18:34.828 [main] Flight_Test - cliked to different 
+[INFO ] 2020-06-09 13:20:26.802 [main] Flight_Test - type
+[DEBUG] 2020-06-09 13:20:41.087 [main] Flight_Test - clicking on calender
+[INFO ] 2020-06-09 13:20:55.029 [main] Flight_Test - cliked to different 
+[INFO ] 2020-06-09 13:22:35.864 [main] Flight_Test - type
+[TRACE] 2020-06-09 13:22:45.413 [main] Flight_Test - clicking on depart and dest
+[DEBUG] 2020-06-09 13:22:51.475 [main] Flight_Test - clicking on calender
+[TRACE] 2020-06-09 13:22:52.118 [main] Flight_Test - select passenger
+[INFO ] 2020-06-09 13:23:06.037 [main] Flight_Test - cliked to different 

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-13T17:55:08 IST" name="Suite" finished-at="2020-07-13T17:55:09 IST" duration-ms="1413">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Options.TestRunner2@f736069]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2020-07-13T17:55:08 IST" name="Test" finished-at="2020-07-13T17:55:09 IST" duration-ms="1413">
+      <class name="Options.TestRunner2">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Options.TestRunner2@f736069]" started-at="2020-07-13T17:55:08 IST" name="setUpClass" finished-at="2020-07-13T17:55:08 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Options.TestRunner2@f736069]" started-at="2020-07-13T17:55:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-07-13T17:55:09 IST" duration-ms="301" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search Round Trip"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Flight for Trip"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="io.cucumber.testng.UndefinedStepException">
+            <message>
+              <![CDATA[There were 8 undefined steps
+The step "Type of trip to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Type of trip to be selected")
+public void type_of_trip_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "City to be Selected" is undefined. You can implement it using the snippet(s) below:
+
+@Then("City to be Selected")
+public void city_to_be_Selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Verify the date block" is undefined. You can implement it using the snippet(s) below:
+
+@When("Verify the date block")
+public void verify_the_date_block() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Date to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@When("Date to be selected")
+public void date_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Number of adults to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@When("Number of adults to be selected")
+public void number_of_adults_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Select Currency" is undefined. You can implement it using the snippet(s) below:
+
+@When("Select Currency")
+public void select_Currency() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Search for the flight" is undefined. You can implement it using the snippet(s) below:
+
+@When("Search for the flight")
+public void search_for_the_flight() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Verify the data" is undefined. You can implement it using the snippet(s) below:
+
+@Then("Verify the data")
+public void verify_the_data() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[io.cucumber.testng.UndefinedStepException: There were 8 undefined steps
+The step "Type of trip to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Type of trip to be selected")
+public void type_of_trip_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "City to be Selected" is undefined. You can implement it using the snippet(s) below:
+
+@Then("City to be Selected")
+public void city_to_be_Selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Verify the date block" is undefined. You can implement it using the snippet(s) below:
+
+@When("Verify the date block")
+public void verify_the_date_block() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Date to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@When("Date to be selected")
+public void date_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Number of adults to be selected" is undefined. You can implement it using the snippet(s) below:
+
+@When("Number of adults to be selected")
+public void number_of_adults_to_be_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Select Currency" is undefined. You can implement it using the snippet(s) below:
+
+@When("Select Currency")
+public void select_Currency() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Search for the flight" is undefined. You can implement it using the snippet(s) below:
+
+@When("Search for the flight")
+public void search_for_the_flight() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+The step "Verify the data" is undefined. You can implement it using the snippet(s) below:
+
+@Then("Verify the data")
+public void verify_the_data() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+at io.cucumber.testng.TestCaseResultObserver.assertTestCasePassed(TestCaseResultObserver.java:112)
+at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:125)
+at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
+at org.testng.TestNG.runSuites(TestNG.java:1066)
+at org.testng.TestNG.run(TestNG.java:1034)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- io.cucumber.testng.UndefinedStepException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Options.TestRunner2@f736069]" started-at="2020-07-13T17:55:09 IST" name="tearDownClass" finished-at="2020-07-13T17:55:09 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Options.TestRunner2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
